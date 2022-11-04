@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276946863429",
+    "project_id": "eventzu",
+    "storage_bucket": "eventzu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276946863429:android:5551008a242780aebf2a2c",
+        "android_client_info": {
+          "package_name": "com.example.eventzu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276946863429-nkm6b66o4a9dfk9oirttde9hvnv52poa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventzu",
+            "certificate_hash": "fe9dd78a7e3fbaee676f7fbe9cbdbd9eb16bba97"
+          }
+        },
+        {
+          "client_id": "276946863429-1iplrlqtl02ar9ibbojhom0r7fs8t7od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgQsZYZC663aR_9yzcRzvPatfK3epZuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276946863429-1iplrlqtl02ar9ibbojhom0r7fs8t7od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
