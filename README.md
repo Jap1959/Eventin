@@ -1,4 +1,4 @@
-# eventzu
+# eventin
 
 A new Flutter project.
 
