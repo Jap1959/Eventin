@@ -1,4 +1,4 @@
-# eventin
+# Eventin
 
 A new Flutter project.
 
